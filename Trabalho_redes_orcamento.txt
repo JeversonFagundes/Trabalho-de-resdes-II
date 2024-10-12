@@ -1,0 +1,73 @@
+Primero andar:
+
+R$ 960      Processadores - i5-7 geracao com placa de video integrada
+R$ 1.020    Placas mães - BRX B250, Chipset B250, Intel LGA 1151, MATX, DDR4
+R$ 566,85   Fonte - K-Mex ATX, 300W Real
+R$ 495      Memorias - Memória Ram Macrovip, 8GB, 2400mhz, DDR4
+R$ 450      Gabinetes simples
+R$ 10       Pilha da bios
+R$ 90       Cooler da INTEL
+R$ 600      SSD Sandisk Ultra 3d Sdssdh3-250g-g25 250gb Preto
+R$ 1.049,90 Impressora multifuncional cor Epson EcoTank L3250 127/220V
+R$ 2.094    Monitor Dell de 21.5" SE2222H
+
+============================
+
+Segundo andar:
+
+R$ 1.600  Processadores - i5 7 geração com GPU
+R$ 1.700  Placas mães - BRX B250, Chipset B250, Intel LGA 1151, MATX, DDR4
+R$ 944,75 Fonte - K-Mex ATX, 300W Real
+R$ 826,50 Memorias - Memória Ram Macrovip, 8GB, 2400mhz, DDR4
+R$ 750    Gabinetes simples
+R$ 10     Pilhas da bios
+R$ 1.000  SSD Sandisk Ultra 3d Sdssdh3-250g-g25 250gb Preto
+R$ 121    Cooler ida INTEL
+R$ 3.490  Monitor Dell de 21.5" SE2222H
+
+============================
+
+Terceiro andar:
+
+R$ 50.000   Processadores - i7 10700K geração com GPU
+R$ 10.100   Placas mães - Placa Mãe ASUS Prime H510M-A R2.0
+R$ 7.000    Fonte - Corsair CX450 450W, 80 Plus Bronze, PFC Ativo, CP-9020120-BR CÓD: CP-9020
+R$ 6.000    Memorias RAM - Corsair Vengeance LPX 16GB (2x8GB), 2400Mhz, DDR4 CL16
+R$ 3.000    Gabinetes simples
+R$ 40       Pilhas da bios
+R$ 7.400    Cooler - Cooler Para Processador Cooler Master Hyper 622 Halo Black, 120mm, Preto, RR-D6BB-20PA-R1
+R$ 5.199,8  SSD 1 TB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/1000G
+R$ 2.099,80 2 Impressora multifuncional cor Epson EcoTank L3250 127/220V
+R$ 13.960   Monitor Dell de 21.5" SE2222H
+
+===========================
+
+Quarto andar:
+
+R$ 61.600   Processadores - i7 10700K geração com GPU
+R$ 14.140   Placas mães - Placa Mãe ASUS Prime H510M-A R2.0
+R$ 9.520    Fonte - Corsair CX450 450W, 80 Plus Bronze, PFC Ativo
+R$ 15.568   Memorias RAM - Corsair Vengeance LPX 16GB (2x8GB), 2400Mhz, DDR4 CL16
+R$ 3.000    Gabinetes simples
+R$ 40       Pilhas da bios
+R$ 10.360   Cooler - Cooler Para Processador Cooler Master Hyper 622 Halo Black, 120mm, Preto, RR-D6BB-20PA-R1
+R$ 7.279,72 SSD 1 TB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/1000G
+R$ 2.099,80 2 Impressora multifuncional cor Epson EcoTank L3250 127/220V
+R$ 19.544   Monitor Dell de 21.5" SE2222H
+
+===========================
+
+Quinto andar:
+
+R$ 17.557,68 Processador Intel Core i3 10100 3.60GHz (4.30GHz Turbo), 10ª Geração, 4-Cores 8-Threads
+R$ 14.139,72 Placa Mãe ASUS Prime H510M-A R2.0
+R$ 5.067,44  Fonte Aerocool Bivolt 350W VX-350 EN57181
+R$ 4.479,72  Memória RAM Kingston Fury Beast, 8GB, 3200MHz
+R$ 4.200     Gabinete simples
+R$ 50 	     Pilhas da BIOS
+R$ 5.880     Air Cooler Para Processador Cooler Master Hyper H412R Com 4 HeatPipes e Ventoinha 92mm
+R$ 2.239,72  SSD Rise Mode Gamer Z Series 128GB, Sata, Leitura: 535MB/s e Gravação: 435MB/s - RM-SSD-128
+R$ 6.980     Monitor Dell de 21.5" SE2222H
+============================
+
+Total: 321.303,90 Reais
